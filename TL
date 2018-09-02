@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title> Thato Letele: Boy Genius </title>
+	</head>
+	<body style="background-color:skyblue;">
+		<h1 style="color:white;"><u><b>Basic Info You Already Know</u></b></h1>
+        <p style="color:white;">Hello reader (most likely Mr. Letswalo), my name is Thato, but you already know that. The purpose of this website is to tell you some things about me that you don't know. </p>
+        <h2 style="color:white;"><u><b>
+What You (Most Likely) Don't Know?</u></b></h2>
+        <p style="color:white;">Here's what you don't know about me:</p>
+        <p style="color:white;">1. I am a musician. You can listen to my music on the following link (Warning: most of my music is explicit):</p>
+        <a href="https://soundcloud.com/thato-letele">Lil Nerd</a>
+        <p style="color:white;">2. I am a dancer. Here's a video I posted on Instagram recently:</p>
+        <img src="38626394_271948563634316_7038783221491826688_n.jpg" alt="Instagram Profile Picture;">
+        <br>
+        <a href="https://www.instagram.com/p/BnMa5-7gi8U/?taken-by=lil_nerd22">Dance Video</a>
+        <p style="color:white;">3. I'm a gamer. I like to play games in my spare time. </p>
+        <img src="290339-widescreen-kill-la-kill-wallpaper-1920x1080.jpg;" style="width:960;height:540;">
+        <p style="color:white;">4. I enjoy watching anime (Japanese animation). This is kind of new to me, but I've watch a lot of anime and I enjoy them.</p>
+        <h3 style="color:white;"><u><b>Conclusion</u></b></h3>
+        <p style="color:white;">Now that you have read some interesting facts that not everyone knows about me, I hope you see me in a new light, now that you know more about me.</p>
+        <img src="Q2RRIv-y_400x400.jpg">
+	</body>
+</html>
